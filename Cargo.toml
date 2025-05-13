@@ -2,6 +2,10 @@
 name = "dms"
 version = "0.1.0"
 edition = "2024"
+description = "A command line tool for switching between dark and light mode"
+license = "GPL-2.0"
+repository = "https://github.com/divanvisagie/dms"
+authors = ["Divan Visagie <me@divanv.com>"]
 
 [dependencies]
 clap = { version = "4.5.38", features = ["derive"] }
